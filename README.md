@@ -7,6 +7,9 @@ Compressing text with LLMs.
 python3 -m venv venv
 source venv/bin/activate
 
+# OAI Key
+echo "<YOUR OAI KEY>" >> OAI_KEY.txt
+
 # Install requirements
 pip install -r requirements.txt
 ```
