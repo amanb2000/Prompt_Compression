@@ -1,7 +1,9 @@
 numpy 
 torch 
+tqdm
 
 transformers
+huggingface_hub[cli]
 
 openai 
 anthropic
@@ -9,3 +11,4 @@ anthropic
 jupyter
 ipykernel
 matplotlib
+magic-words
