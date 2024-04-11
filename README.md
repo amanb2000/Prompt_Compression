@@ -9,6 +9,7 @@ source venv/bin/activate
 
 # OAI Key
 echo "<YOUR OAI KEY>" >> OAI_KEY.txt
+echo "<YOUR ANTHROPIC KEY>" >> ANTHROPIC_KEY.txt
 
 # Install requirements
 pip install -r requirements.txt
